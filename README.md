@@ -81,7 +81,7 @@ With the policy correctly applied, simulated a common helpdesk scenario — a us
 
 On **DidYouRebootIT-PC1**, signed out of the domain account and entered the wrong password 3 times on the login screen. The account locked out as expected.
 
-![Lockout message on the Win11 login screen](images/6. User_logged_out.png)
+![Lockout message on the Win11 login screen](images/6.%20User_logged_out.png)
 
 ### Resolving the lockout from the DC
 
@@ -91,11 +91,11 @@ Navigated to the Users container → located **Stefanija Stefanovska** → right
 
 The "Unlock account" checkbox was visible, confirming the account was locked. Ticked the checkbox → **Apply** → **OK**.
 
-![Account tab showing locked state and unlock option](images/7. Unlocking_account.png)
+![Account tab showing locked state and unlock option](images/7.%20Unlocking_account.png)
 
 Returned to **DidYouRebootIT-PC1** and logged in successfully with the correct credentials.
 
-![Successful login after unlock](images/8. Successful_login.png)
+![Successful login after unlock](images/8.%20Successful_login.png)
 
 ---
 
